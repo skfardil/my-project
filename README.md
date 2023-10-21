@@ -1,3 +1,3 @@
-# my-project
-project made using HTML,CSS and Javascript
+# My-Project
+Project Made using HTML,CSS and Javascript
 
