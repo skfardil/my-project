@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    text-decoration: overline;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 100px;
+    text-transform: capitalize;
+}
+#sk1{
+    text-decoration:underline rgb(255, 0, 21);
+}
+div{
+    border-color: blue;
+    border-style: solid;
+    border-width: 2px;
+    margin-bottom: 20px;
+    background-color: rgb(255, 254, 254);
+    padding-bottom: 20px;
+    text-align: center;
+    height: 100px;
+    width: 200px;
+}
+#jk1{
+    background-image: url(wp5261265.webp);
+    background-size: cover;
+}
